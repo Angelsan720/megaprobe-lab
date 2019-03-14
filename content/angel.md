@@ -26,14 +26,28 @@ Tags:de-novo diffhash pepino erizo
 
 ## Spring 2019
 
-### Week 6:(18/02/19)-(22/02/19)
+### Week 10:(11/03/19)-(15/03/19)
+
+- Trinity worked dont ask me how. Next week I'm to continue the protocol.
+- Im trying to compile R to run on boqueron to move diffhash to the same platform as the escambron protocol for benchmarking purposes. It will take a while.
+
+### Week 9:(04/03/19)-(08/03/19)
+
+- Back to having problems with Trinity and the "working" escambron protocol is less functional than whats ideal but I made it work so far.
+- Ok Trinity wont run Boss Man said to make a Support Ticket so that problem belongs to someone else now.
+
+### Week 8:(25/02/19)-(01/03/19)
+
+- Now we need data to compare to. The Boss Man said the escambron protocol is the way to go so thats the mission for the inmediate future.
+
+### Week 7:(18/02/19)-(22/02/19)
 - Too busy studying for statistics and doing the statistics proyect.
 
 ### Week 6:(18/02/19)-(22/02/19)
 - Finished the patchwork run on the non-trivial data.
 - Wrapped the code to run in sequence.
 - Initial results show a size reduction of an order of magnitud when switching between the any filter and the all filter.
-- Next goal clean up the code formalize a benchmark and parralelize.
+- Next goal clean up the code formalize a benchmark and parallelize.
 
 ### Week 5:(11/02/19)-(15/02/19)
 - Started to rewrite diffhash to utilize a dataframe because its apparently usefull.
